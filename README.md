@@ -14,7 +14,7 @@
 <!-- ABOUT THE PROJECT -->
 <div align="center">
   
-<img src="https://lh3.googleusercontent.com/VAkI6AmHp0aOhyPW1sNv7m0IqTwmJlU-SXN2_c7eSOgVxqXh7ef-WMdKXG3xJkbWHSurdaUMDwYNWRJjeuAiqbSoq65nKjbwNeGB0O4rYl1NghzbL6spVyDDBDD0Wnb9O6ZomZrdxw=w2400" width="500px">
+<img src="https://lh3.googleusercontent.com/jqjeu7Me452qzRuVmN14eAg2UEpQyqU8ddkwsJX3xavJQKYqAYdabksl76aorKelR-xwbUcA9p0Y3GabXRpoFSH56QCIWqXPmfR5_1wtL-NAM4ZWQiIDFYBiFvj9aCsDKwRE-zC_QQ=w2400" width="400px">
   
 </div>
 
@@ -28,7 +28,7 @@
   <br>
   <div align="center">
   
-  <img src="https://lh3.googleusercontent.com/VAkI6AmHp0aOhyPW1sNv7m0IqTwmJlU-SXN2_c7eSOgVxqXh7ef-WMdKXG3xJkbWHSurdaUMDwYNWRJjeuAiqbSoq65nKjbwNeGB0O4rYl1NghzbL6spVyDDBDD0Wnb9O6ZomZrdxw=w2400" width="500px">
+  <img src="https://lh3.googleusercontent.com/Pb_LxlltZttgSdhHqH0rx3Hg9HlWdyNIW935lyuIrsSxu2cVC6_-3oqNEUhy4Wv1VUyN3YCqj6ZRMzDI5FRV3zk8pJJ4lu1qhahYJR_48rWQRjUtMU1LYR80QnSvO1Onb51vDmd87A=w2400" width="500px">
   
   </div>
 

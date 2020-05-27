@@ -20,9 +20,9 @@
 
   Description: This script fixes and cleans a layer with a "FullName" street
   field. A "FullName" street field includes street name and street prefix. A "FLAG"
-  field is created in the output layer that shows fields with one element in its
-  string or fewer, or 5 elements in the string or more. This field can be used as
-  a inspect field for data integerity.
+  field is created in the output layer that shows fields with one or fewer elements in its
+  string, or 5 or more elements in its string. This field can be used as
+  an inspect field for data integerity.
 
    Example Outputs (Streetname is the output field from tool, OriginalStr is what the original field looked like):
   <br>

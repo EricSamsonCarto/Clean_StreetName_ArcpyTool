@@ -1,10 +1,8 @@
-# Clean_StreetName_ArcpyTool
-
 
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 <p align="center">
-  <h3 align="center">Dispersed Camping in CA Leaflet Web Application</h3>
+  <h3 align="center">Clean StreetName Arcpy Tool</h3>
 
   <p align="center">
     An ArcGIS Pro Arcpy/Pandas tool that will create a new feature class with an updated clean version of street names<br>

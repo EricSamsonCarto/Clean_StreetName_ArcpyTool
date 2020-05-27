@@ -18,11 +18,11 @@
   
 </div>
 
-  Description: This script fixes and cleans a layer with a "FullName" street <br>
-  field. A "FullName" street field includes street name and street prefix. A "FLAG" <br>
-  field is created in the output layer that shows fields with one element in its <br>
-  string or fewer, or 5 elements in the string or more. This field can be used as <br>
-  a inspect field for data integerity. <br>
+  Description: This script fixes and cleans a layer with a "FullName" street
+  field. A "FullName" street field includes street name and street prefix. A "FLAG"
+  field is created in the output layer that shows fields with one element in its
+  string or fewer, or 5 elements in the string or more. This field can be used as
+  a inspect field for data integerity.
 
    Example Outputs (Streetname is the output field from tool, OriginalStr is what the original field looked like):
   <br>
@@ -32,9 +32,9 @@
   
   </div>
 
-  An excel sheet is needed in order to run the script. The excel sheet is called "NameABBRVs"<br>
-  and needs to be saved within the same directory as the script. It <br>
-  contains two lists. One with street prefix's and one with street abrvs <br>
+  An excel sheet is needed in order to run the script. The excel sheet is called "NameABBRVs"
+  and needs to be saved within the same directory as the script. It
+  contains two lists. One with street prefix's and one with street abrvs
   <br>
 ------------------------------------------------------------------------------------"""
 ADD TOOL TO ARCGIS PRO PROJECT:<br>

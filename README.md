@@ -36,7 +36,7 @@
   and needs to be saved within the same directory as the script. It
   contains two lists. One with street prefix's and one with street abrvs
   <br>
-------------------------------------------------------------------------------------"""
+
 ADD TOOL TO ARCGIS PRO PROJECT:<br>
 -ADD TOOL FOLDER TO DIRECTORY OF CHOOSING <br>
 -IN CATALOG ON ARCGIS PRO, OPEN TOOLBOXES <br>

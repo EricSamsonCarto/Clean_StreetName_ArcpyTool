@@ -6,8 +6,6 @@
 
   <p align="center">
     An ArcGIS Pro Arcpy/Pandas tool that will create a new feature class with an updated clean version of street names<br>
-    Project Description page:<br>
-  <a href='#'>Clean StreetName Arcpy Tool</a>
   </p>
 </p>
 
